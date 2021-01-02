@@ -3,7 +3,7 @@ The original repo is not really updated anymore and I had some error messages in
 
 # homebridge-valetudo-xiaomi-vacuum
 
-`homebridge-valetudo-xiaomi-vacuum` is a [Homebridge](https://github.com/nfarina/homebridge) plugin which you can use to control your Xiaomi Roborock vacuum that has [Valetudo](https://github.com/Hypfer/Valetudo) installed.
+This is a fork of `homebridge-valetudo-xiaomi-vacuum` which is a [Homebridge](https://github.com/nfarina/homebridge) plugin which you can use to control your Xiaomi Roborock vacuum that has [Valetudo](https://github.com/Hypfer/Valetudo) installed.
 
 ## Installation
 
