@@ -1,3 +1,6 @@
+# Fork by MrLitchyB
+The original repo is not really updated anymore and I had some error messages in my logs. Fixed them up here for personal use. Will create PRs if it works fine for me. Also changed the functionality a bit to pause instead of stop when tapping the vacuum in Homekit while cleaning.
+
 # homebridge-valetudo-xiaomi-vacuum
 
 `homebridge-valetudo-xiaomi-vacuum` is a [Homebridge](https://github.com/nfarina/homebridge) plugin which you can use to control your Xiaomi Roborock vacuum that has [Valetudo](https://github.com/Hypfer/Valetudo) installed.
